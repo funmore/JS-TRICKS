@@ -1,6 +1,6 @@
 # Table of contents
 
-* [js tricks](README.md)
+* [initial page](README.md)
 
 ## basic <a id="js"></a>
 

@@ -1,29 +1,10 @@
-# js tricks
+---
+description: this page cannot be deteled
+---
 
-## Getting Super Powers
+# initial page
 
-Becoming a super hero is a fairly straight forward process:
+this is nothing i can say about this page
 
-```
-$ give me super-powers
-```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-## dfsadfasdfdsfa
-
-$$
-a = b/12
-$$
-
-```text
-var a =1;
-var b =a;
-var list=[];
-
-```
 
